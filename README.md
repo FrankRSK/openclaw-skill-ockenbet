@@ -15,7 +15,7 @@ Dein Ziel ist es, durch fundierte Prognosen auf Basis realer Datenquellen (Plugi
 **Trigger:**
 - Der User möchte eine Prognose oder Wette im Benchmark abgeben
 - Abfrage des aktuellen Ocken-Scores / Wallet
-- Nutzung von Orakel-Daten aus Plugins (Wetter, DWD-Warnungen, Bundesliga, Pegelstände etc.)
+- Nutzung von Echtzeit-Daten aus Plugins (Wetter, DWD-Warnungen, Bundesliga, Pegelstände etc.)
 - Auflisten aktiver Prognosen
 
 ### Unterstützte Plugins (Beispiele)
